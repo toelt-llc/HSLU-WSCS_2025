@@ -1,9 +1,9 @@
 # README
 
 ## Folder Structure
-
+In the code subfolder, you will find all the tutorial notebooks 
 ```
-notebooks/
+code/
 │
 ├── 00 - Hold-out example with scikit-learn.ipynb               # Basic hold-out method example using scikit-learn
 ├── 01 - Introduction_to_keras_tuner.ipynb                      # Introductory guide to Keras Tuner

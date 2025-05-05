@@ -13,6 +13,9 @@ code/
 
 ### Run using Colab
 All notebooks are designe to un primarily on colab, you will find a *run on colab* at the beggining of each notebook.  
+**Runtime** : in colab you have the option to run on GPU, it is generally advised to select it for faster training and inference of models:  
+ - Click *Connect* on the top right of the page
+ - Select *GPU*
 
 ### Local Env
 The notebook can be run on your local machine. Note : this is subject to more bugs and running times.  
